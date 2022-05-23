@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Owen Lobato Velazquez # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: owenlobatov@gmail.com
+  phone: '3123158923'
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: 
+  github: OwenLobato
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,114 +27,61 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: MCER - B1 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Proactive
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Organized
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Sociable
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a responsible person committed to my activities, capable of learning easily and with a desire to improve in search of a job opportunity in which I can develop my skills and gain experience.
+    
+    I seek to fulfill my personal goals by applying my knowledge as a computer systems engineering student and as a programmer analyst technician, contributing with my skills and colleagues, where contributions can be made for a greater good.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Software Engineering
+    university: Tecnológico Nacional de México
+    time: 2017 - Current
     details: |
+      Campus Colima
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+        - Specialty in Data Science
+
+  - degree: Programmer Analyst Technician
+    university: Universidad de Colima
+    time: 2014 - 2017
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      Bachillerato \#25
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: 
+    time: 
+    company: 
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
 # Registra aquí los proyectos en los que has participado
 projects:
     title: Projects
     
     assignments:
-      - title: Velocity
+      - title: System of supporting documents
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Development of desktop software with Java language and SQL Server for the internal use of printing receipts in 'Bachillerato #25' of the 'Universidad de Colima'."
         
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -146,23 +93,32 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
+    - name: JavaScript
       level: 40%
 
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 80%
 
-    - name: C/C++
-      level: 40%
+    - name: PHP
+      level: 20%
+
+    - name: Python
+      level: 80%
+
+    - name: Java
+      level: 80%
+    
+    - name: MySQL
+      level: 80%
+
+    - name: SQL Server
+      level: 80%
+
+    - name: Ruby
+      level: 20%
 
 # NO MODIFICAR
 footer: >
